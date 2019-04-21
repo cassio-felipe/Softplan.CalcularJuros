@@ -1,0 +1,14 @@
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.CalcularJuros\bin\Debug\netcoreapp2.2\Softplan.CalcularJuros.deps.json
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.CalcularJuros\bin\Debug\netcoreapp2.2\Softplan.CalcularJuros.runtimeconfig.json
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.CalcularJuros\bin\Debug\netcoreapp2.2\Softplan.CalcularJuros.runtimeconfig.dev.json
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.CalcularJuros\bin\Debug\netcoreapp2.2\Softplan.CalcularJuros.dll
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.CalcularJuros\obj\Debug\netcoreapp2.2\Softplan.CalcularJuros.csprojAssemblyReference.cache
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.CalcularJuros\obj\Debug\netcoreapp2.2\Softplan.CalcularJuros.csproj.CoreCompileInputs.cache
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.CalcularJuros\obj\Debug\netcoreapp2.2\Softplan.CalcularJuros.RazorAssemblyInfo.cache
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.CalcularJuros\obj\Debug\netcoreapp2.2\Softplan.CalcularJuros.RazorAssemblyInfo.cs
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.CalcularJuros\obj\Debug\netcoreapp2.2\Softplan.CalcularJuros.AssemblyInfoInputs.cache
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.CalcularJuros\obj\Debug\netcoreapp2.2\Softplan.CalcularJuros.AssemblyInfo.cs
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.CalcularJuros\obj\Debug\netcoreapp2.2\Softplan.CalcularJuros.RazorTargetAssemblyInfo.cache
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.CalcularJuros\bin\Debug\netcoreapp2.2\Softplan.CalcularJuros.pdb
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.CalcularJuros\obj\Debug\netcoreapp2.2\Softplan.CalcularJuros.dll
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.CalcularJuros\obj\Debug\netcoreapp2.2\Softplan.CalcularJuros.pdb

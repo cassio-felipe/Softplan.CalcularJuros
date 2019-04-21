@@ -1,0 +1,17 @@
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.Tests\bin\Debug\netcoreapp2.2\Softplan.Tests.deps.json
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.Tests\bin\Debug\netcoreapp2.2\Softplan.Tests.runtimeconfig.json
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.Tests\bin\Debug\netcoreapp2.2\Softplan.Tests.runtimeconfig.dev.json
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.Tests\bin\Debug\netcoreapp2.2\Softplan.Tests.dll
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.Tests\bin\Debug\netcoreapp2.2\Softplan.Tests.pdb
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.Tests\bin\Debug\netcoreapp2.2\Softplan.CalcularJuros.dll
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.Tests\bin\Debug\netcoreapp2.2\Softplan.CalcularJuros.pdb
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.Tests\obj\Debug\netcoreapp2.2\Softplan.Tests.csprojAssemblyReference.cache
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.Tests\obj\Debug\netcoreapp2.2\Softplan.Tests.csproj.CoreCompileInputs.cache
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.Tests\obj\Debug\netcoreapp2.2\Softplan.Tests.AssemblyInfoInputs.cache
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.Tests\obj\Debug\netcoreapp2.2\Softplan.Tests.AssemblyInfo.cs
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.Tests\obj\Debug\netcoreapp2.2\Softplan.Tests.csproj.CopyComplete
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.Tests\obj\Debug\netcoreapp2.2\Softplan.Tests.dll
+C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.Tests\obj\Debug\netcoreapp2.2\Softplan.Tests.pdb
