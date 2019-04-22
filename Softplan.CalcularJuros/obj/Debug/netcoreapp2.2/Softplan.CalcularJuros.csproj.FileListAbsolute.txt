@@ -12,3 +12,17 @@ C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.CalcularJuros
 C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.CalcularJuros\bin\Debug\netcoreapp2.2\Softplan.CalcularJuros.pdb
 C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.CalcularJuros\obj\Debug\netcoreapp2.2\Softplan.CalcularJuros.dll
 C:\Users\cassio.costa\source\repos\Softplan.CalcularJuros\Softplan.CalcularJuros\obj\Debug\netcoreapp2.2\Softplan.CalcularJuros.pdb
+C:\Cassio\C#\Softplan.CalcularJuros\Softplan.CalcularJuros\bin\Debug\netcoreapp2.2\Softplan.CalcularJuros.deps.json
+C:\Cassio\C#\Softplan.CalcularJuros\Softplan.CalcularJuros\bin\Debug\netcoreapp2.2\Softplan.CalcularJuros.runtimeconfig.json
+C:\Cassio\C#\Softplan.CalcularJuros\Softplan.CalcularJuros\bin\Debug\netcoreapp2.2\Softplan.CalcularJuros.runtimeconfig.dev.json
+C:\Cassio\C#\Softplan.CalcularJuros\Softplan.CalcularJuros\bin\Debug\netcoreapp2.2\Softplan.CalcularJuros.dll
+C:\Cassio\C#\Softplan.CalcularJuros\Softplan.CalcularJuros\bin\Debug\netcoreapp2.2\Softplan.CalcularJuros.pdb
+C:\Cassio\C#\Softplan.CalcularJuros\Softplan.CalcularJuros\obj\Debug\netcoreapp2.2\Softplan.CalcularJuros.csprojAssemblyReference.cache
+C:\Cassio\C#\Softplan.CalcularJuros\Softplan.CalcularJuros\obj\Debug\netcoreapp2.2\Softplan.CalcularJuros.csproj.CoreCompileInputs.cache
+C:\Cassio\C#\Softplan.CalcularJuros\Softplan.CalcularJuros\obj\Debug\netcoreapp2.2\Softplan.CalcularJuros.RazorAssemblyInfo.cache
+C:\Cassio\C#\Softplan.CalcularJuros\Softplan.CalcularJuros\obj\Debug\netcoreapp2.2\Softplan.CalcularJuros.RazorAssemblyInfo.cs
+C:\Cassio\C#\Softplan.CalcularJuros\Softplan.CalcularJuros\obj\Debug\netcoreapp2.2\Softplan.CalcularJuros.AssemblyInfoInputs.cache
+C:\Cassio\C#\Softplan.CalcularJuros\Softplan.CalcularJuros\obj\Debug\netcoreapp2.2\Softplan.CalcularJuros.AssemblyInfo.cs
+C:\Cassio\C#\Softplan.CalcularJuros\Softplan.CalcularJuros\obj\Debug\netcoreapp2.2\Softplan.CalcularJuros.RazorTargetAssemblyInfo.cache
+C:\Cassio\C#\Softplan.CalcularJuros\Softplan.CalcularJuros\obj\Debug\netcoreapp2.2\Softplan.CalcularJuros.dll
+C:\Cassio\C#\Softplan.CalcularJuros\Softplan.CalcularJuros\obj\Debug\netcoreapp2.2\Softplan.CalcularJuros.pdb

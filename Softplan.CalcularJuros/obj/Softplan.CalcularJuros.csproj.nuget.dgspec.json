@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cassio.costa\\source\\repos\\Softplan.CalcularJuros\\Softplan.CalcularJuros\\Softplan.CalcularJuros.csproj": {}
+    "C:\\Cassio\\C#\\Softplan.CalcularJuros\\Softplan.CalcularJuros\\Softplan.CalcularJuros.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cassio.costa\\source\\repos\\Softplan.CalcularJuros\\Softplan.CalcularJuros\\Softplan.CalcularJuros.csproj": {
+    "C:\\Cassio\\C#\\Softplan.CalcularJuros\\Softplan.CalcularJuros\\Softplan.CalcularJuros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cassio.costa\\source\\repos\\Softplan.CalcularJuros\\Softplan.CalcularJuros\\Softplan.CalcularJuros.csproj",
+        "projectUniqueName": "C:\\Cassio\\C#\\Softplan.CalcularJuros\\Softplan.CalcularJuros\\Softplan.CalcularJuros.csproj",
         "projectName": "Softplan.CalcularJuros",
-        "projectPath": "C:\\Users\\cassio.costa\\source\\repos\\Softplan.CalcularJuros\\Softplan.CalcularJuros\\Softplan.CalcularJuros.csproj",
+        "projectPath": "C:\\Cassio\\C#\\Softplan.CalcularJuros\\Softplan.CalcularJuros\\Softplan.CalcularJuros.csproj",
         "packagesPath": "C:\\Users\\cassio.costa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cassio.costa\\source\\repos\\Softplan.CalcularJuros\\Softplan.CalcularJuros\\obj\\",
+        "outputPath": "C:\\Cassio\\C#\\Softplan.CalcularJuros\\Softplan.CalcularJuros\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -61,6 +61,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[2.2.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
             }
           },
           "imports": [
