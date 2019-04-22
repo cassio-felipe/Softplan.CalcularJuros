@@ -20,10 +20,10 @@ namespace Softplan.CalcularJuros.Controllers
         }
 
         [HttpGet]
-        public IActionResult CalcularJuros(decimal valorInicial, int tempo)
+        [ProducesResponseType(statusCode: 200, type: typeof(decimal))]
+        public IActionResult CalcularJuros(decimal valorInicial, int meses)
         {
-            var calcular = _valores.CalcularJuros(valorInicial, tempo);
-
+            var calcular = _valores.CalcularJuros(valorInicial, meses);
             return Ok(calcular);
 
         }

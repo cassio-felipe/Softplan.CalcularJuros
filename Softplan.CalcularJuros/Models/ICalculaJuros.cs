@@ -7,6 +7,6 @@ namespace Softplan.CalcularJuros.Models
 {
     public interface ICalculaJuros
     {
-        decimal CalcularJuros(decimal ValorInicial, int Tempo);
+        decimal CalcularJuros(decimal ValorInicial, int meses);
     }
 }

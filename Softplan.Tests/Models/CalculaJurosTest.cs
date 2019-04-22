@@ -16,12 +16,16 @@ namespace Softplan.Tests.Models
         }
 
         [Fact]
-        public void DeveRetornarJurosComParametrosZerados()
+        public void DeveRetornarValorFinalComMesesZerados()
         {
             var calculoJuros = new CalculaJuros().CalcularJuros(100, 0);
-            Assert.Equal(0, calculoJuros);
+            Assert.Equal(100, calculoJuros);
+        }
 
-            calculoJuros = new CalculaJuros().CalcularJuros(0, 5);
+        [Fact]
+        public void DeveRetornarValorFinalComValorInicialZerados()
+        {
+            var calculoJuros = new CalculaJuros().CalcularJuros(0, 5);
             Assert.Equal(0, calculoJuros);
         }
     }
